@@ -1,5 +1,6 @@
 # Yablon-Game
-
+1. The Yablon_Final.py has the GUI implementation of some of the functionality the game code.
+2. The Console_Game_Code.py does not have GUI but it is capable of playing Yablon, Yablon Deluxe, Assisted Yablon, and Assisted Yablon Deluxe; it also allows up to 4 players and have a point system. 
 # To run the game, do the following:
 1. Create a folder called "cards"
 2. Put everything in this repository except Yablon_Final.py and transparent_cards2.png into the cards folder
